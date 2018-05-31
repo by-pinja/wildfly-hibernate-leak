@@ -19,3 +19,5 @@ Second time
 
 Third time
 ![Third deploy memory dump](images/deploy3.png)
+
+Reported as https://issues.jboss.org/browse/WFLY-9849
